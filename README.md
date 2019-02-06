@@ -1,9 +1,2 @@
 # ng7-simpubu
-frontend equipments management system 
-
-
-
-
-
-
-JUST TESTING
+Frontend Equipment Management System build with Angular 7
